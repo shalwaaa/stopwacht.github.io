@@ -1,0 +1,71 @@
+body{
+    width: 90%;
+    height: 50vh;
+    background-image: url(bunga.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#timer{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100px;
+    color: #ffffff;
+    
+}
+
+#mulai{
+    font-family: "poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+    padding: 10px 20px;
+    background-color: #021024;
+    border: none;
+    border-radius: 20px;
+    
+}
+
+#mulai:hover{
+    background-color: #052659;
+    color: #c1e8ff;
+}
+#berhenti{
+    font-family: "poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+    padding: 10px 20px;
+    background-color: #021024;
+    border: none;
+    border-radius: 20px;
+}
+#berhenti:hover{
+    background-color:#052659;
+    color: #c1e8ff;
+}
+#ulangi{
+    font-family: "poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+    padding: 10px 20px;
+    background-color: #021024;
+    border: none;
+    border-radius: 20px;
+}
+#ulangi:hover{
+    background-color: #052659;
+    color: #c1e8ff;
+}
+#item{
+    margin-top: 200px;
+    margin-left: 440px;
+
+}
+#ahay{
+    margin-left: 450px;
+}
